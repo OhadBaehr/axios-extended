@@ -23,7 +23,6 @@
 ## 📝 Table of Contents
 
 - [❓ About ](#-about-)
-  - [Next Axios makes it easy to create typesafe fullstack applications](#next-axios-makes-it-easy-to-create-typesafe-fullstack-applications)
 - [⬇️ Getting Started ](#️-getting-started-)
   - [Installing](#installing)
 - [✨ Usage ](#-usage-)
@@ -35,7 +34,7 @@
 &nbsp;
 # ❓ About <a name = "about"></a>
 
-## Next Axios makes it easy to create typesafe fullstack applications
+Next Axios makes it easy to create typesafe fullstack applications
 \
 &nbsp;
 
