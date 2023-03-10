@@ -95,7 +95,8 @@ export const APIClient = AxiosExtended<[FeedAPI]>()
 [![example3](https://i.ibb.co/7vmFbmJ/stage4.jpg)]()
 
 
-
+\
+&nbsp;
 # 🔥 With Next.js <a name="usage-with-nextjs"></a>
 
 ```typescript
