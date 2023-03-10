@@ -1,0 +1,2 @@
+!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?t(exports,require("axios")):"function"==typeof define&&define.amd?define(["exports","axios"],t):t((e||self).axiosExtended={},e.axios)}(this,function(e,t){function n(e){return e&&"object"==typeof e&&"default"in e?e:{default:e}}var o=/*#__PURE__*/n(t);function f(e){return o.default.create(e)}e.AxiosExtended=f,e.createAPI=function(){return function(e){return e}},e.default=f});
+//# sourceMappingURL=AxiosExtended.umd.js.map
