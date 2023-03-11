@@ -149,7 +149,7 @@ export default API<FeedAPI>(async (req, res) => {
 // some-other-file.ts
 
 //import *type* is very important!
-import type FeedAPI from '<route-to-api/feed>'
+import type {FeedAPI} from '<route-to-api/feed>'
 
 // now use APIClient anywhere, if you need to add more endpoints just add them to the array!
 export const APIClient = NextAxios<[
